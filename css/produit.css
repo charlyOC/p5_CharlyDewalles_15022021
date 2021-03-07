@@ -74,7 +74,7 @@
   font-size: 20px;
 }
 
-#container #custom_produit {
+#container #custom_product {
   width: 90%;
   margin-top: 60px;
   margin-left: auto;
@@ -85,52 +85,52 @@
   flex-direction: column;
 }
 
-#container #custom_produit h1 {
+#container #custom_product h1 {
   margin-left: 30px;
 }
 
-#container #custom_produit img {
+#container #custom_product img {
   width: 330px;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
 }
 
-#container #custom_produit h2 {
+#container #custom_product h2 {
   margin-left: 30px;
   margin-top: 15px;
   font-size: 18px;
 }
 
-#container #custom_produit h3 {
+#container #custom_product h3 {
   margin-left: 30px;
   font-size: 14px;
   font-weight: 600;
 }
 
-#container #custom_produit #couleurs {
+#container #custom_product .varnish {
   margin-left: auto;
   margin-right: auto;
   margin-top: 25px;
   font-size: 20px;
 }
 
-#container #custom_produit #couleurs select {
+#container #custom_product .varnish select {
   font-size: 17px;
 }
 
-#container #custom_produit #quantité {
+#container #custom_product .quantité {
   margin-left: auto;
   margin-right: auto;
   margin-top: 25px;
   font-size: 20px;
 }
 
-#container #custom_produit #quantité select {
+#container #custom_product .quantité select {
   font-size: 17px;
 }
 
-#container #custom_produit #price {
+#container #custom_product .price {
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -138,13 +138,13 @@
   flex-direction: row;
 }
 
-#container #custom_produit #price #prix {
+#container #custom_product .price .prix {
   margin-left: 10px;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
 }
 
-#container #custom_produit button {
+#container #custom_product button {
   border: none;
   cursor: pointer;
   width: 30%;

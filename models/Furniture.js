@@ -9,3 +9,4 @@ const furnitureSchema = mongoose.Schema({
 });
 
 module.exports = mongoose.model('Furniture', furnitureSchema);
+

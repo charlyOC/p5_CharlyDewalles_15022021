@@ -89,7 +89,7 @@ $secondary: #ce7d4b;
         }
     }
 
-    #custom_produit
+    #custom_product
     {
         width: 90%;
         margin-top: 60px;
@@ -127,7 +127,7 @@ $secondary: #ce7d4b;
             font-weight: 600;
         }
 
-        #couleurs
+        .varnish
         {
             margin-left: auto;
             margin-right: auto;
@@ -140,7 +140,7 @@ $secondary: #ce7d4b;
             }
         }
 
-        #quantité
+        .quantité
         {
             margin-left: auto;
             margin-right: auto;
@@ -153,7 +153,7 @@ $secondary: #ce7d4b;
             }
         }
 
-        #price
+        .price
         {
             margin-left: auto;
             margin-right: auto;
@@ -161,10 +161,10 @@ $secondary: #ce7d4b;
             align-items: center;
             flex-direction: row;
 
-            #prix
+            .prix
             {
                 margin-left: 10px;
-                font-size: 20px;
+                font-size: 22px;
                 font-weight: 600;
             }
             
